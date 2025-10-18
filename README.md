@@ -1,3 +1,4 @@
+<img width="2720" height="1536" alt="image" src="https://github.com/user-attachments/assets/e247ef8a-933d-4bd9-88fd-81c3a7388fc3" />
 # Orbit
 ### The Calendar & Lifestyle App for College Students
 
